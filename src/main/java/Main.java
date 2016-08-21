@@ -5,5 +5,6 @@ public class Main {
     public static void main(String [] args){
         int i = 10;
         int b = 10;
+        String str = "Hello world";
     }
 }
